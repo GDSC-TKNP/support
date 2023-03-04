@@ -13,7 +13,7 @@ body:
   - type: input
     id: twitter
     attributes:
-      label: Twitter Username (if applicable)
+      label: Twitter Username (Optional)
       placeholder: Insert your Twitter username here
     validations:
       required: false
