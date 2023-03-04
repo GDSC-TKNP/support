@@ -9,7 +9,7 @@ jobs:
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.4
         with:
-          organization: GitHub-Org
+          organization: GDSC-TKNP
           label: invite me to the GDSC-TKNP Community
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: 'Welcome to the Google Developer Student Club - The Kisumu National Polytechnic.'
